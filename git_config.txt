@@ -1,0 +1,3 @@
+配置 git 的方法
+git confitg --global user.name "lion"
+git config --global user.email "838834052@qq.com"
