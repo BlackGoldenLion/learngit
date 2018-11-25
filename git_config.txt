@@ -1,3 +1,15 @@
 配置 git 的方法
 git confitg --global user.name "lion"
 git config --global user.email "838834052@qq.com"
+
+添加和同步文件
+git add 要提交的文件，可以重复使用 add
+git commit -m本次提交的说明""
+
+git status 可以查看被改动的文件
+git diff 可以查看改了什么
+同样还可以使用
+git add file name
+添加要提交的文件
+git commit -m""
+接着提交
