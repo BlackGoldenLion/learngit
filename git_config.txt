@@ -23,3 +23,5 @@ git reset --hard 加上版本号回到或者后退到指定的版本
 查看可以前进的版本
 git log
 查看可以后退的版本
+当对文件进行修改后，没有提交到git上只是保存或者，只是提交到暂存区上就可以使用
+git checkout --git_config.txt
